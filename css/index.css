@@ -4,10 +4,42 @@
     position: absolute;
 }
 
-.o {
+.secondo {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 120px;
-    margin-top: 50%;
+    font-size: 280px;
+    margin-top: -7%;
     margin-left: 20%;
+    color: #a6abad;
 }
+
+.thirdr {
+    position: absolute;
+    font-family: 'Archivo Black';
+    font-size: 280px;
+    margin-top: -7%;
+    margin-left: 40%;
+    color: #838989;
+}
+
+.fourthk {
+    left: 50%;
+    margin-top: -5%;
+    position: absolute;
+}
+
+.fifthb {
+    position: absolute;
+    font-family: 'Archivo Black';
+    font-size: 280px;
+    margin-top: 2%;
+    margin-left: 65%;
+    color: #707473;
+}
+
+.sixtho {
+    left: 50%;
+    margin-top: -5%;
+    position: absolute;
+}
+
