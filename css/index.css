@@ -1,5 +1,15 @@
 .firstw {
-    left: 10%;
-    margin-top: 50%;
+    left: 3%;
+    margin-top: -5%;
     position: absolute;
+}
+
+.body {
+    background-color: #FFF7F0; 
+}
+
+.o {
+    position: absolute;
+    font-family: 'Archivo Black';
+    font-size: 120px;
 }
