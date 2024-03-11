@@ -4,12 +4,10 @@
     position: absolute;
 }
 
-.body {
-    background-color: #FFF7F0; 
-}
-
 .o {
     position: absolute;
     font-family: 'Archivo Black';
     font-size: 120px;
+    margin-top: 50%;
+    margin-left: 20%;
 }
