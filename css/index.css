@@ -8,8 +8,8 @@
     position: absolute;
     font-family: 'Archivo Black';
     font-size: 280px;
-    margin-top: 5%;
-    margin-left: 20%;
+    margin-top: 3%;
+    margin-left: 16%;
     color: #a6abad;
 }
 
@@ -17,29 +17,29 @@
     position: absolute;
     font-family: 'Archivo Black';
     font-size: 280px;
-    margin-top: 7%;
-    margin-left: 40%;
+    margin-top: 10%;
+    margin-left: 29%;
     color: #838989;
 }
 
 .fourthk {
-    margin-left: 40%;
-    margin-top: 17%;
+    margin-left: 34%;
+    margin-top: 14%;
     position: absolute;
 }
 
 .fifthb {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 280px;
-    margin-top: 2%;
-    margin-left: 65%;
+    font-size: 240px;
+    margin-top: 27%;
+    margin-left: 50.5%;
     color: #707473;
 }
 
 .sixtho {
-    left: 60%;
-    margin-top: -5%;
+    left: 58.5%;
+    margin-top: 30%;
     position: absolute;
 }
 
@@ -47,17 +47,17 @@
     position: absolute;
     font-family: 'Archivo Black';
     font-size: 280px;
-    margin-top: 2%;
-    margin-left: 65%;
+    margin-top: 37%;
+    margin-left: 73.5%;
     color: #b0b4b3;
 }
 
 .eighthk {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 280px;
-    margin-top: 2%;
-    margin-left: 65%;
+    font-size: 245px;
+    margin-top: 45%;
+    margin-left: 87%;
     color: #585c5c;
 }
 
