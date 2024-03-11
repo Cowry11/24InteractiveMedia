@@ -38,8 +38,25 @@
 }
 
 .sixtho {
-    left: 50%;
+    left: 60%;
     margin-top: -5%;
     position: absolute;
 }
 
+.seventho {
+    position: absolute;
+    font-family: 'Archivo Black';
+    font-size: 280px;
+    margin-top: 2%;
+    margin-left: 65%;
+    color: #b0b4b3;
+}
+
+.eighthk {
+    position: absolute;
+    font-family: 'Archivo Black';
+    font-size: 280px;
+    margin-top: 2%;
+    margin-left: 65%;
+    color: #585c5c;
+}
