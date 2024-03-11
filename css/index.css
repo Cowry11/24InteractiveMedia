@@ -8,7 +8,7 @@
     position: absolute;
     font-family: 'Archivo Black';
     font-size: 280px;
-    margin-top: -7%;
+    margin-top: 5%;
     margin-left: 20%;
     color: #a6abad;
 }
@@ -17,14 +17,14 @@
     position: absolute;
     font-family: 'Archivo Black';
     font-size: 280px;
-    margin-top: -7%;
+    margin-top: 7%;
     margin-left: 40%;
     color: #838989;
 }
 
 .fourthk {
-    left: 50%;
-    margin-top: -5%;
+    margin-left: 40%;
+    margin-top: 17%;
     position: absolute;
 }
 
@@ -60,3 +60,4 @@
     margin-left: 65%;
     color: #585c5c;
 }
+
