@@ -7,7 +7,7 @@
 .secondo {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 280px;
+    font-size: 16vw;
     margin-top: 3%;
     margin-left: 16%;
     color: #a6abad;
@@ -16,7 +16,7 @@
 .thirdr {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 280px;
+    font-size: 16vw;
     margin-top: 10%;
     margin-left: 29%;
     color: #838989;
@@ -31,7 +31,7 @@
 .fifthb {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 240px;
+    font-size: 16vw;
     margin-top: 27%;
     margin-left: 50.5%;
     color: #707473;
@@ -46,7 +46,7 @@
 .seventho {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 280px;
+    font-size: 16vw;
     margin-top: 37%;
     margin-left: 73.5%;
     color: #b0b4b3;
@@ -55,7 +55,7 @@
 .eighthk {
     position: absolute;
     font-family: 'Archivo Black';
-    font-size: 245px;
+    font-size: 16vw;
     margin-top: 45%;
     margin-left: 87%;
     color: #585c5c;
@@ -72,13 +72,6 @@ body {
     background-size: cover;
 }
 
-.container {
-    display: flex;
-    flex-wrap: wrap;
-}
 
-@media screen and (max-width: 700px) {
-    .container {   
-      flex-direction: column;
-    }
-  }
+
+
