@@ -29,7 +29,7 @@ body {
 .grid-item {
     width: 100%;
     height: 250px;
-    background-color: #000000;
+    background-color: #ffffff;
     display: contents;
     justify-content: center;
     align-items: center;
