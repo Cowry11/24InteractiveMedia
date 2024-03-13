@@ -1,3 +1,10 @@
 img {
-    border-radius: 50%;
+    border-radius: 10%;
   }
+
+.three {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+
