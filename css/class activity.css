@@ -3,8 +3,45 @@ img {
     border-radius: 4px;
     padding: 5px;
     width: 150px;
+    z-index: 1;
   }
   
   img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    z-index: 1;
   }
+
+div.maincontainer {
+  width: 159px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
+  
+.maincontainer {
+  padding: 20px 6px;
+  float: left;
+  width: 50%;
+}
+
+@media only screen and (max-width: 700px) {
+    .maincontainer {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+}
+  
+@media only screen and (max-width: 500px) {
+    .maincontainer {
+      width: 100%;
+    }
+}
