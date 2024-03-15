@@ -45,6 +45,21 @@
     position: absolute;
 }
 
+.girl2 {
+    display: none;
+}
+
+.letterk:hover + .girl2 {
+    display: block;
+}
+
+.girl2 {
+   position: absolute;
+   left: 35%;
+   margin-top: 36%;
+   width: 14%;
+}
+
 .fifthb {
     position: absolute;
     font-family: 'Archivo Black';
@@ -59,6 +74,21 @@
     left: 60%;
     margin-top: 30%;
     position: absolute;
+}
+
+.girl3 {
+    display: none;
+}
+
+.lettero:hover + .girl3 {
+    display: block;
+}
+
+.girl3 {
+   position: absolute;
+   left: 63%;
+   margin-top: 19%;
+   width: 14%;
 }
 
 .seventho {
