@@ -5,6 +5,21 @@
     position: absolute;
 }
 
+.girl {
+    display: none;
+}
+
+.letterw:hover + .girl {
+    display: block;
+}
+
+.girl {
+   position: absolute;
+   left: 2%;
+   margin-top: 12.5%;
+   width: 14%;
+}
+
 .secondo {
     position: absolute;
     font-family: 'Archivo Black';
