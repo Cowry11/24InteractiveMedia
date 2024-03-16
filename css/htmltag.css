@@ -14,7 +14,8 @@ p.a {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 12px 895px;
+  margin-left: 45%;
+  margin-top: 2%;
   transition-duration: 0.5s;
   cursor: pointer;
   border-radius: 15%;
