@@ -28,3 +28,10 @@
     max-width: 100%;
   }
 }
+
+audio {
+  width: 19%;
+  position: absolute;
+  margin-top: -95%;
+  margin-left: 28%;
+}
