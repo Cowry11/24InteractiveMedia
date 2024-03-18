@@ -56,3 +56,8 @@ figure {
     margin-top: 0;
 }
 
+.icon {
+    position: fixed;
+    top: 2%;
+    left: 30%;
+}
