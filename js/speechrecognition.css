@@ -1,0 +1,14 @@
+h1 {
+    position: absolute;
+    color: blueviolet;
+    margin-left: 120px;
+    font-size: 100px;
+}
+
+h2 {
+    position: absolute;
+    color: blueviolet;
+    margin-left: 600px;
+    margin-top: 290px;
+    font-size: 90px;
+}
