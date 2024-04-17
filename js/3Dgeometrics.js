@@ -1,7 +1,6 @@
 
 function setup() {
     createCanvas(windowWidth, windowHeight, WEBGL);
-
   }
   
   function draw() {
@@ -17,7 +16,6 @@ function setup() {
     rotateY(frameCount * 0.01);
     box(260, 260, 260);
     pop();
-
   }
   
   //This coding references from https://p5js.org/examples/3d-geometries.html
