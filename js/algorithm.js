@@ -5,7 +5,7 @@ let endGame;
 function setup() {
   createCanvas(1950, 1250);
   canvas1 = createGraphics(1950, 400);
-  canvas2 = createGraphics(1950, 850);
+  canvas2 = createGraphics(1950, 850);  //This coding references from https://editor.p5js.org/tinywitchdraws/sketches/teb1ToSEZ
   rectMode(CENTER)
   endGame=false;
   angleMode(DEGREES);
@@ -51,7 +51,7 @@ function draw() {
     ellipse(x,y,20,20)
     ellipse(x-15,y+5,20,20)
     ellipse(x-25,y-5,20,20)
-    ellipse(x-17,y-20,20,20)
+    ellipse(x-17,y-20,20,20)  //This flower coding references from https://editor.p5js.org/katiejliu/sketches/Je9G3c5z9
     ellipse(x,y-15,20,20) 
     fill(0)
     text("Keep Going",70,50)
@@ -67,6 +67,7 @@ function draw() {
        
   }
 
+// below coding reference from https://www.youtube.com/watch?v=0_7Ihr2vYc8&t=392s
 function dice1(diceX,diceY,roll1){
   textSize(70)
   if (roll1==1){
@@ -131,7 +132,7 @@ function dice2(diceX,diceY,roll2){
     let y = 120 * cos(a) + 200;
     vertex(x, y);
   }
-  endShape(CLOSE);
+  endShape(CLOSE);     //This coding references from https://www.youtube.com/watch?v=76fiD5DvzeQ&t=264s
   noStroke( )
   fill(255)
   text("1",diceX-21,diceY+25)

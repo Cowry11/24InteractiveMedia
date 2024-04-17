@@ -17,3 +17,6 @@ function draw(){
     image(img2, mouseX, mouseY, 150, 200)
     }
 }
+
+//This cursor trails coding references from https://discourse.processing.org/t/how-to-change-image-on-mouse-click/29692/4
+//The image is made by myself

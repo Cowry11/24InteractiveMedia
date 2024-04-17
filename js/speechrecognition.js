@@ -31,3 +31,5 @@ function gotSpeech(){
     fill (255);
  
   }
+
+  //This coding mostly references from https://karenanndonnachie.github.io/MESS_IS_MORE/P5JS/CHAPTER_3_SOUND/Speech/

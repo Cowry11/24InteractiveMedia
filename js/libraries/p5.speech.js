@@ -1,3 +1,5 @@
+//This coding references from https://karenanndonnachie.github.io/MESS_IS_MORE/P5JS/CHAPTER_3_SOUND/Speech/
+
 /*! p5.speech.js v0.0.1 2015-06-12 */
 /* updated v0.0.2 2017-10-17 */
 /**
