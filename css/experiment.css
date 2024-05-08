@@ -32,20 +32,20 @@
 audio {
   width: 19%;
   position: absolute;
-  margin-top: -95%;
+  margin-top: -132%;
   margin-left: 28%;
 }
 
 iframe {
   position: absolute;
   width: 15%;
-  margin-top: -80%;
+  margin-top: -110%;
   margin-left: 80%;
 }
 
 p a {
   position: absolute;
-  margin-top: -70%;
+  margin-top: -102%;
   margin-left: 80%;
   color: black;
   font-size: 2vw;
